@@ -8,6 +8,4 @@ implementing postnatal care (PNC) for women and their newborns.
 Regardless of place of birth, mothers and newborns spend most of the
 postnatal period (the first six weeks after birth) at home.
 Postnatal care (PNC) programmes are among the weakest of all
-reproductive and child health programmes in the region. How can we
-increase the coverage of integrated maternal and newborn care in the
-postnatal period?
+reproductive and child health programmes in the region. These are the statistics for post natal visit within two days of birth in africa
